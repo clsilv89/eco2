@@ -1,0 +1,33 @@
+Olá Professor,
+
+Este guia serve para ajuda-lo a rodar o projeto.
+
+Projeto Mobile
+
+- 1: rodar yarn na pasta do projeto.
+
+- 2: Rodar yarn android para executar o app no seu emulador
+
+Projeto Backend
+
+- 1: Rodar yarn na pasta do projeto
+
+- 2: Rodar yarn dev:server para rodar o projeto na porta 3333
+
+Esta etapa requer atenção devido a um problema comum de rodar um servidor local
+e usar ele em um aplicativo tambem local.
+
+1: O Servidor rodará no http://localhost:3333
+
+2: Recomendo fortemente abrir o seu cmd e rodar o ipconfig
+
+3: Copiar o valor do seu IPv4 (algo parecido com 192.168.0.0)
+
+4: colocar esse valor no arquivo /eco2-mobile/src/services/api.ts
+
+5: altere o valor de localhost para o ip da sua maquina
+
+ficará parecido com http://192.168.0.0:3333
+
+
+caso possua algum problema, aqui esta meu contato: (11)94111-3433

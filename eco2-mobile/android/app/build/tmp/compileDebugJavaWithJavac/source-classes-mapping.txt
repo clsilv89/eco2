@@ -1,0 +1,14 @@
+com/eco2/MainApplication.java
+ com.eco2.MainApplication
+ com.eco2.MainApplication$1
+com/eco2/BuildConfig.java
+ com.eco2.BuildConfig
+com/eco2/ReactNativeFlipper.java
+ com.eco2.ReactNativeFlipper
+ com.eco2.ReactNativeFlipper$1
+ com.eco2.ReactNativeFlipper$2
+ com.eco2.ReactNativeFlipper$2$1
+com/eco2/MainActivity.java
+ com.eco2.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
